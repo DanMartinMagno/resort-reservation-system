@@ -100,71 +100,15 @@ _Streamlined booking management system with status tracking_
 - Input validation and sanitization
 - CSRF protection
 
-## 🛣️ Future Improvements
-
-1. **Enhanced Features**
-
-   - Email notification system
-   - SMS notifications for bookings
-   - Advanced room filtering
-   - Seasonal pricing
-   - Multiple language support
-
-2. **Technical Improvements**
-   - API development for mobile applications
-   - Implementation of unit tests
-   - Docker containerization
-   - Enhanced security measures
-   - Performance optimization
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you would like to change.
-
-## 📢 Portfolio Description
-
-**Hi-Way 411 Resort Reservation System** is a full-stack web application built with PHP and MySQL. It features a complete booking management system with secure user authentication, real-time availability checking, and an intuitive admin panel. This project demonstrates proficiency in:
-
-- Full-stack web development
-- Database design and management
-- Secure user authentication
-- Payment gateway integration
-- Responsive UI/UX design
-- Admin panel development
-
----
-
-## 🛡️ Professional Standards
-
-- No sensitive credentials or API keys are present in the repository
-- All environment variables are managed via `.env` and `.env.example`
-- Follows MVC architecture and best practices
-- Includes input validation, CSRF protection, and rate limiting
-
----
-
-_Ready to showcase on GitHub and impress recruiters!_
-
 ## 👤 Author
 
-[Your Name]
+Dan Martin Magno
 
-- Portfolio: [your-portfolio-url]
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
-
-## 🙏 Acknowledgments
-
-- Bootstrap Team for the frontend framework
-- PayPal for payment integration
-- All contributors and testers
-
----
-
-_This project was developed as part of a web development portfolio to demonstrate full-stack development capabilities._
+- LinkedIn: [https://www.linkedin.com/in/danmartinmagno]
+- GitHub: [https://github.com/DanMartinMagno]
