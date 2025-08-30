@@ -72,14 +72,25 @@ _See Quick Start above for setup instructions._
 
 ## 📸 Screenshots
 
-### User Interface
+### Landing Page & Booking
 
-![Home Page](images/Capture1.PNG)
-![Rooms Page](images/Capture2.PNG)
+![Landing Page](docs/screenshots/landing-page.png)
+_Professional landing page with availability search and booking interface_
 
-### Admin Panel
+### Room Management
 
-![Admin Panel](images/Capture1.PNG) <!-- Replace with actual admin screenshot -->
+![Room Listings](docs/screenshots/room-listings.png)
+_Interactive room listings with detailed information and real-time availability_
+
+### Admin Dashboard
+
+![Admin Dashboard](docs/screenshots/sevices-dashboard.png)
+_Comprehensive admin panel for managing bookings, rooms, and users_
+
+### Booking Management
+
+![Booking System](docs/screenshots/booking-system.png)
+_Streamlined booking management system with status tracking_
 
 ## 🔐 Security Features
 
