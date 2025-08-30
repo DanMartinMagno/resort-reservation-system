@@ -6,22 +6,18 @@
 
 ## 🚀 Quick Start
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/hi-way-411.git
-   ```
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    composer install
    ```
-3. **Copy environment file**
+2. **Copy environment file**
    ```bash
    cp .env.example .env
    ```
-4. **Set up your database**
+3. **Set up your database**
    - Create a MySQL database named `highway411`
    - Import `database/highway411.sql` via phpMyAdmin
-5. **Run the application**
+4. **Run the application**
    - Point your web server to the `public/` directory
    - Access via `http://localhost/hi-way-411`
 
