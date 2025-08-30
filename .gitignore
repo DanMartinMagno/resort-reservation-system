@@ -1,0 +1,42 @@
+# Dependencies
+/vendor
+/node_modules
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Database
+*.sql
+/database/highway411.sql
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for uploaded files
+/admin-panel/hotels-admins/resort_image/*
+/admin-panel/rooms-admins/room_images/*
+!/admin-panel/hotels-admins/resort_image/.gitkeep
+!/admin-panel/rooms-admins/room_images/.gitkeep
+
+# Cache files
+*.cache
+
+# System Files
+.DS_Store
+Thumbs.db
