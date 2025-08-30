@@ -27,7 +27,7 @@
 
 ---
 
-![Hi-Way 411 Resort](images/Capture1.PNG)
+![Hi-Way 411 Resort](docs/screenshots/landing-page.png)
 
 ## ✨ Key Features
 
