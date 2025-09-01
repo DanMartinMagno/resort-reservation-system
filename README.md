@@ -1,4 +1,4 @@
-# Hi-Way 411 Resort Reservation System 🏨
+# Resort Reservation System
 
 **A professional resort reservation system built with PHP and MySQL, featuring a user-friendly booking interface and a robust admin panel for resort management.**
 
@@ -31,7 +31,6 @@
 
   - Online room booking system
   - Real-time availability checking
-  - Secure payment integration
   - User account management
   - Booking history tracking
 
@@ -77,11 +76,6 @@ _Professional landing page with availability search and booking interface_
 
 ![Room Listings](docs/screenshots/room-listings.png)
 _Interactive room listings with detailed information and real-time availability_
-
-### Admin Dashboard
-
-![Admin Dashboard](docs/screenshots/sevices-dashboard.png)
-_Comprehensive admin panel for managing bookings, rooms, and users_
 
 ### Booking Management
 
